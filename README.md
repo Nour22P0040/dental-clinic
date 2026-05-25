@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥 Dental Clinic Management System - Firebase Edition
 
 A comprehensive dental clinic management system built with **Firebase** (Firestore + Authentication), Node.js, Express.js, and React.js.
@@ -428,3 +429,6 @@ MIT License - feel free to use this project for learning or commercial purposes.
 **Built with ❤️ using Firebase + Express.js + React.js**
 
 For questions or issues, check the documentation or create an issue.
+=======
+# dental-clinic
+>>>>>>> 6a798714ffa05b53e663ff737bf528c1849e2286
